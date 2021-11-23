@@ -4,10 +4,8 @@
 
 #######################
 # create view
-
 # import module SQLPS
 import-module SQLPS -DisableNameChecking
-
 $instanceName = "WIN-87I0KBHU7CK\ATLAS3SQL"
 $server = New-Object -TypeName Microsoft.SqlServer.Management.Smo.Server -ArgumentList $instanceName
 
