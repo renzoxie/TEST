@@ -2,7 +2,6 @@
      Powershell with SQL Server 2012
 #>
 
-
 #######################
 # create view
 
